@@ -1,0 +1,29 @@
+{
+  "observation_id": "SRX3445567",
+  "doi": "https://doi.org/10.1101/238063",
+  "species": "homo_sapiens",
+  "organ": "kidney",
+  "name": "kidney,resection",
+  "description": "kidney",
+  "technology": "10xv2",
+  "links": [
+    {
+      "accession": "SRX3445567",
+      "filename": "SRR6348583_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 6905980846,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR634/003/SRR6348583/SRR6348583_1.fastq.gz"
+    },
+    {
+      "accession": "SRX3445567",
+      "filename": "SRR6348583_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 14844481931,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR634/003/SRR6348583/SRR6348583_2.fastq.gz"
+    }
+  ]
+}

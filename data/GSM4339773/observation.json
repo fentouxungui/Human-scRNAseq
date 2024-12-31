@@ -1,0 +1,29 @@
+{
+  "observation_id": "GSM4339773",
+  "doi": "https://doi.org/10.1038/s41591-020-0901-9",
+  "species": "homo_sapiens",
+  "organ": "lung",
+  "name": "covid-infected,severe,total,cells",
+  "description": "bronchoalveolar,lavage,fluid,cells",
+  "technology": "10xv2",
+  "links": [
+    {
+      "accession": "GSM4339773",
+      "filename": "SRR11181958_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 30392641457,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR111/058/SRR11181958/SRR11181958_1.fastq.gz"
+    },
+    {
+      "accession": "GSM4339773",
+      "filename": "SRR11181958_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 101229072898,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR111/058/SRR11181958/SRR11181958_2.fastq.gz"
+    }
+  ]
+}

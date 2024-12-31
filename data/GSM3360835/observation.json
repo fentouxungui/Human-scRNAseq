@@ -1,0 +1,20 @@
+{
+  "observation_id": "GSM3360835",
+  "doi": "https://doi.org/10.1038/s41591-020-01227-z",
+  "species": "homo_sapiens",
+  "organ": "brain",
+  "name": "gestational,week,22",
+  "description": "human,embryonic,hippocampus",
+  "technology": "10xv2",
+  "links": [
+    {
+      "accession": "GSM3360835",
+      "filename": "GW22_Hippocampus_01_possorted_genome_bam.bam.1",
+      "filetype": "bam",
+      "filesize": 129762609979,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "https://sra-pub-src-2.s3.amazonaws.com/SRR7767736/GW22_Hippocampus_01_possorted_genome_bam.bam.1"
+    }
+  ]
+}

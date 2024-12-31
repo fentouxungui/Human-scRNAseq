@@ -1,0 +1,83 @@
+{
+  "observation_id": "GSM3954946",
+  "doi": "https://doi.org/10.3389/fmed.2020.597967",
+  "species": "homo_sapiens",
+  "organ": "stomach",
+  "name": "non-atrophic,gastritis",
+  "description": "gastric,antral,mucosa,biopsy",
+  "technology": "10xv2",
+  "links": [
+    {
+      "accession": "GSM3954946",
+      "filename": "SRR9713114_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 9899155024,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/004/SRR9713114/SRR9713114_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954946",
+      "filename": "SRR9713114_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 10497633306,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/004/SRR9713114/SRR9713114_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954946",
+      "filename": "SRR9713115_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 8791326940,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/005/SRR9713115/SRR9713115_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954946",
+      "filename": "SRR9713115_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 9309161343,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/005/SRR9713115/SRR9713115_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954946",
+      "filename": "SRR9713116_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 8543009839,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/006/SRR9713116/SRR9713116_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954946",
+      "filename": "SRR9713116_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 9110441919,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/006/SRR9713116/SRR9713116_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954946",
+      "filename": "SRR9713117_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 8272375852,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/007/SRR9713117/SRR9713117_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954946",
+      "filename": "SRR9713117_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 8745059940,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/007/SRR9713117/SRR9713117_2.fastq.gz"
+    }
+  ]
+}

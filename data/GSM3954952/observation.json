@@ -1,0 +1,155 @@
+{
+  "observation_id": "GSM3954952",
+  "doi": "https://doi.org/10.3389/fmed.2020.597967",
+  "species": "homo_sapiens",
+  "organ": "stomach",
+  "name": "wild,intestinal,metaplasia",
+  "description": "gastric,antral,mucosa,biopsy",
+  "technology": "10xv2",
+  "links": [
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713132_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 3171301803,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/002/SRR9713132/SRR9713132_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713132_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 3352586145,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/002/SRR9713132/SRR9713132_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713133_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 2707534868,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/003/SRR9713133/SRR9713133_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713133_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 2852263001,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/003/SRR9713133/SRR9713133_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713134_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 3118774911,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/004/SRR9713134/SRR9713134_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713134_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 3303689593,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/004/SRR9713134/SRR9713134_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713135_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 3376575463,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/005/SRR9713135/SRR9713135_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713135_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 3585064387,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/005/SRR9713135/SRR9713135_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713136_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 4775276101,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/006/SRR9713136/SRR9713136_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713136_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 4896158534,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/006/SRR9713136/SRR9713136_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713137_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 4038210831,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/007/SRR9713137/SRR9713137_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713137_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 4139079946,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/007/SRR9713137/SRR9713137_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713138_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 4644756083,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/008/SRR9713138/SRR9713138_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713138_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 4759444847,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/008/SRR9713138/SRR9713138_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713139_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 5080582722,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/009/SRR9713139/SRR9713139_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3954952",
+      "filename": "SRR9713139_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 5211138189,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR971/009/SRR9713139/SRR9713139_2.fastq.gz"
+    }
+  ]
+}

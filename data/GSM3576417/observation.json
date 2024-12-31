@@ -1,0 +1,83 @@
+{
+  "observation_id": "GSM3576417",
+  "doi": "https://doi.org/10.1126/sciimmunol.abb4432",
+  "species": "homo_sapiens",
+  "organ": "blood",
+  "name": "ulcerative,colitis,patient",
+  "description": "CD45+,immune,cell",
+  "technology": "10xv2",
+  "links": [
+    {
+      "accession": "GSM3576417",
+      "filename": "SRR8478525_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 3695524,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR847/005/SRR8478525/SRR8478525_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3576417",
+      "filename": "SRR8478525_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 10421205,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR847/005/SRR8478525/SRR8478525_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3576417",
+      "filename": "SRR8478526_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 127778781,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR847/006/SRR8478526/SRR8478526_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3576417",
+      "filename": "SRR8478526_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 421514081,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR847/006/SRR8478526/SRR8478526_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3576417",
+      "filename": "SRR8478527_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 174594270,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR847/007/SRR8478527/SRR8478527_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3576417",
+      "filename": "SRR8478527_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 576805658,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR847/007/SRR8478527/SRR8478527_2.fastq.gz"
+    },
+    {
+      "accession": "GSM3576417",
+      "filename": "SRR8478528_1.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 190171221,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR847/008/SRR8478528/SRR8478528_1.fastq.gz"
+    },
+    {
+      "accession": "GSM3576417",
+      "filename": "SRR8478528_2.fastq.gz",
+      "filetype": "fastq",
+      "filesize": 637074452,
+      "md5": null,
+      "urltype": "ftp",
+      "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR847/008/SRR8478528/SRR8478528_2.fastq.gz"
+    }
+  ]
+}
